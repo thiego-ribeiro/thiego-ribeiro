@@ -4,7 +4,7 @@
 
 ## 🔭 Experiences:
 
-Data Processing Software (Back-end)<br>
+Data Processing Software<br>
 > I participated in the creation of a data processing software that uses Python and the Django framework. This project involved the development of a user-friendly interface with HTML, CSS and Bootstrap, in addition to using PostgreSQL as a database. The software was designed to optimize the manipulation and analysis of large volumes of data, allowing users to perform complex operations efficiently. This also gave me experience with the SQL language.
 
   SQL Skills:<br>
